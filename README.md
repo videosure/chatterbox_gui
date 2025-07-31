@@ -10,7 +10,7 @@ A simple Python 3 desktop application that lets you generate speech using the [C
 * **Progress bar** during generation
 * **Recent outputs** list (double-click to play any file)
 * **Play** and **Stop** controls
-
+* **CFG Weight** and **Exaggeration** sliders
 ---
 
 ### 🚀 Features
