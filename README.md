@@ -3,7 +3,7 @@ A simple Python 3 desktop application that lets you generate speech using the Ch
 
 ## Chatterbox TTS GUI
 
-A simple Python 3 desktop application that lets you generate speech using the [ChatterboxTTS](https://github.com/OpenAI/chatterbox) voice-cloning model. It provides:
+A simple Python 3 desktop application that lets you generate speech using the [ChatterboxTTS](https://github.com/resemble-ai/chatterbox) voice-cloning model. It provides:
 
 * **Voice sample selection** (wav, mp3, flac)
 * **Text input** for synthesis
